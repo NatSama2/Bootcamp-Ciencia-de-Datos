@@ -1,0 +1,121 @@
+vendedor,precio_unitario,fecha,producto,cantidad
+Ana Torres,58000,2024-03-30,Webcam,1
+Camila Ríos,43000,2024-03-02,Teclado,12
+Luis Vega,23000,2024-05-26,Mouse,1
+Fernanda Díaz,73000,2024-03-21,Disco SSD,5
+Fernanda Díaz,65000,2024-04-19,Auriculares,12
+Luis Vega,17000,2024-06-26,Mouse,6
+Camila Ríos,357000,2024-05-27,Monitor,4
+Camila Ríos,41000,2024-05-16,Teclado,2
+Ana Torres,50000,2024-06-25,Teclado,8
+Diego Mora,23000,2024-03-26,Mouse,8
+Diego Mora,64000,2024-03-27,Auriculares,10
+Luis Vega,891000,2024-04-18,Laptop,10
+Camila Ríos,888000,2024-04-12,Laptop,11
+Diego Mora,30000,2024-05-13,Mouse,11
+Diego Mora,69000,2024-04-25,Auriculares,9
+Luis Vega,350000,2024-04-07,Monitor,14
+Diego Mora,897000,2024-04-11,Laptop,14
+Fernanda Díaz,889000,2024-05-01,Laptop,8
+Ana Torres,67000,2024-03-20,Webcam,12
+Luis Vega,27000,2024-04-08,Mouse,7
+Ana Torres,889000,2024-04-14,Laptop,9
+Luis Vega,61000,2024-05-22,Webcam,6
+Diego Mora,898000,2024-06-13,Laptop,6
+Luis Vega,19000,2024-03-14,Mouse,14
+Diego Mora,22000,2024-03-04,Hub USB,10
+Camila Ríos,894000,2024-05-20,Laptop,10
+Fernanda Díaz,22000,2024-04-16,Hub USB,13
+Ana Torres,899000,2024-06-11,Laptop,8
+Camila Ríos,51000,2024-06-15,Teclado,1
+Camila Ríos,25000,2024-03-07,Mouse,13
+Fernanda Díaz,45000,2024-05-18,Teclado,7
+Fernanda Díaz,60000,2024-04-23,Auriculares,5
+Luis Vega,21000,2024-03-15,Mouse,11
+Ana Torres,351000,2024-04-27,Monitor,1
+Ana Torres,895000,2024-03-16,Laptop,9
+Luis Vega,23000,2024-05-23,Mouse,1
+Camila Ríos,48000,2024-04-26,Teclado,12
+Ana Torres,354000,2024-06-01,Monitor,6
+Camila Ríos,49000,2024-06-23,Teclado,14
+Fernanda Díaz,63000,2024-06-27,Auriculares,9
+Luis Vega,25000,2024-03-12,Hub USB,10
+Ana Torres,76000,2024-03-08,Disco SSD,11
+Camila Ríos,18000,2024-04-30,Hub USB,7
+Diego Mora,66000,2024-04-05,Webcam,14
+Luis Vega,61000,2024-05-11,Auriculares,10
+Diego Mora,75000,2024-04-17,Disco SSD,7
+Camila Ríos,25000,2024-04-02,Hub USB,4
+Luis Vega,71000,2024-06-22,Disco SSD,10
+Diego Mora,356000,2024-04-09,Monitor,6
+Fernanda Díaz,71000,2024-05-03,Disco SSD,4
+Camila Ríos,74000,2024-05-30,Disco SSD,10
+Luis Vega,885000,2024-06-02,Laptop,3
+Luis Vega,20000,2024-03-22,Hub USB,10
+Luis Vega,355000,2024-06-16,Monitor,2
+Ana Torres,58000,2024-04-28,Webcam,4
+Fernanda Díaz,891000,2024-04-01,Laptop,7
+Camila Ríos,71000,2024-05-12,Auriculares,12
+Diego Mora,351000,2024-05-08,Monitor,13
+Fernanda Díaz,80000,2024-04-24,Disco SSD,12
+Fernanda Díaz,353000,2024-03-17,Monitor,11
+Diego Mora,70000,2024-06-07,Auriculares,7
+Luis Vega,40000,2024-03-13,Teclado,4
+Fernanda Díaz,351000,2024-05-29,Monitor,14
+Fernanda Díaz,77000,2024-05-21,Disco SSD,13
+Fernanda Díaz,60000,2024-05-10,Auriculares,6
+Diego Mora,889000,2024-03-05,Laptop,3
+Camila Ríos,71000,2024-03-18,Disco SSD,9
+Diego Mora,74000,2024-05-02,Auriculares,14
+Ana Torres,53000,2024-04-20,Webcam,1
+Luis Vega,18000,2024-04-04,Mouse,13
+Ana Torres,353000,2024-05-17,Monitor,7
+Ana Torres,888000,2024-05-31,Laptop,1
+Diego Mora,64000,2024-05-14,Auriculares,14
+Ana Torres,25000,2024-06-28,Mouse,13
+Fernanda Díaz,358000,2024-05-05,Monitor,5
+Fernanda Díaz,31000,2024-06-24,Mouse,3
+Fernanda Díaz,894000,2024-03-19,Laptop,2
+Fernanda Díaz,80000,2024-04-22,Disco SSD,14
+Camila Ríos,64000,2024-04-29,Webcam,3
+Luis Vega,53000,2024-03-11,Webcam,12
+Fernanda Díaz,67000,2024-03-29,Webcam,6
+Camila Ríos,68000,2024-06-03,Auriculares,3
+Ana Torres,46000,2024-05-06,Teclado,14
+Ana Torres,886000,2024-03-03,Laptop,3
+Diego Mora,58000,2024-04-06,Webcam,3
+Fernanda Díaz,76000,2024-06-09,Disco SSD,11
+Camila Ríos,73000,2024-03-28,Disco SSD,6
+Camila Ríos,17000,2024-05-07,Mouse,7
+Diego Mora,889000,2024-05-04,Laptop,11
+Ana Torres,25000,2024-05-09,Mouse,1
+Fernanda Díaz,24000,2024-06-12,Hub USB,3
+Ana Torres,84000,2024-05-24,Disco SSD,2
+Ana Torres,40000,2024-03-31,Teclado,14
+Camila Ríos,893000,2024-06-19,Laptop,1
+Camila Ríos,897000,2024-06-04,Laptop,2
+Camila Ríos,356000,2024-04-21,Monitor,12
+Luis Vega,44000,2024-03-24,Teclado,1
+Ana Torres,67000,2024-06-10,Webcam,8
+Diego Mora,895000,2024-05-15,Laptop,13
+Diego Mora,899000,2024-04-13,Laptop,8
+Fernanda Díaz,21000,2024-05-25,Mouse,13
+Camila Ríos,73000,2024-05-19,Auriculares,7
+Luis Vega,21000,2024-06-17,Mouse,3
+Ana Torres,18000,2024-04-03,Mouse,13
+Diego Mora,17000,2024-03-10,Mouse,5
+Luis Vega,898000,2024-03-06,Laptop,8
+Ana Torres,80000,2024-06-06,Disco SSD,4
+Fernanda Díaz,80000,2024-03-01,Disco SSD,4
+Luis Vega,22000,2024-03-25,Mouse,3
+Camila Ríos,345000,2024-06-14,Monitor,6
+Fernanda Díaz,46000,2024-06-18,Teclado,1
+Luis Vega,54000,2024-06-05,Teclado,2
+Camila Ríos,22000,2024-06-20,Mouse,2
+Camila Ríos,40000,2024-04-15,Teclado,3
+Fernanda Díaz,17000,2024-05-28,Mouse,14
+Diego Mora,27000,2024-03-23,Hub USB,4
+Fernanda Díaz,22000,2024-06-08,Hub USB,11
+Ana Torres,59000,2024-03-09,Webcam,7
+Camila Ríos,894000,2024-04-10,Laptop,9
+Camila Ríos,59000,2024-06-21,Webcam,7

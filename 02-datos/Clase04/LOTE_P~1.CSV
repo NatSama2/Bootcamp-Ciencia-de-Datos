@@ -1,0 +1,501 @@
+id_unidad,lote,producto,linea,turno,peso_g,temperatura_c,ph,estado_control
+PROD-00001,LOTE-018,Queso Gouda,Línea 1,Mañana,507.7,4.6,6.78,Aprobado
+PROD-00002,LOTE-015,Queso Gouda,Línea 1,Tarde,482.5,4.3,6.64,En revisión
+PROD-00003,LOTE-020,Yogur Natural,Línea 2,Mañana,497.7,4.7,6.6,En revisión
+PROD-00004,LOTE-019,Queso Gouda,Línea 1,Tarde,498.0,5.0,6.83,En revisión
+PROD-00005,LOTE-006,Queso Gouda,Línea 3,Tarde,492.9,4.0,6.69,Aprobado
+PROD-00006,LOTE-010,Queso Gouda,Línea 3,Tarde,482.0,3.8,6.76,Aprobado
+PROD-00007,LOTE-017,Leche Descremada,Línea 3,Mañana,506.4,5.7,6.49,Aprobado
+PROD-00008,LOTE-007,Yogur Natural,Línea 2,Tarde,495.8,4.5,6.85,Aprobado
+PROD-00009,LOTE-001,Queso Gouda,Línea 3,Tarde,496.0,5.1,6.9,En revisión
+PROD-00010,LOTE-007,Yogur Natural,Línea 1,Tarde,468.4,4.5,6.89,Aprobado
+PROD-00011,LOTE-006,Crema,Línea 3,Mañana,491.2,4.3,6.69,Aprobado
+PROD-00012,LOTE-013,Queso Gouda,Línea 2,Noche,470.5,5.4,6.44,Aprobado
+PROD-00013,LOTE-003,Crema,Línea 1,Mañana,539.3,5.2,6.77,Aprobado
+PROD-00014,LOTE-011,Leche Entera,Línea 1,Mañana,490.5,4.5,6.61,Aprobado
+PROD-00015,LOTE-002,Yogur Natural,Línea 1,Tarde,493.8,4.7,6.66,Aprobado
+PROD-00016,LOTE-005,Crema,Línea 2,Mañana,483.9,4.0,6.59,Aprobado
+PROD-00017,LOTE-010,Yogur Natural,Línea 2,Mañana,496.4,4.1,6.6,Aprobado
+PROD-00018,LOTE-005,Leche Entera,Línea 3,Tarde,511.6,2.6,6.56,Aprobado
+PROD-00019,LOTE-016,Leche Entera,Línea 1,Mañana,505.2,3.7,6.46,Aprobado
+PROD-00020,LOTE-010,Queso Gouda,Línea 1,Tarde,504.5,5.0,6.59,En revisión
+PROD-00021,LOTE-008,Mantequilla,Línea 1,Noche,489.5,4.0,6.89,Aprobado
+PROD-00022,LOTE-010,Leche Descremada,Línea 3,Noche,509.4,3.8,6.69,En revisión
+PROD-00023,LOTE-009,Leche Entera,Línea 2,Noche,525.5,4.1,6.85,Aprobado
+PROD-00024,LOTE-005,Crema,Línea 3,Tarde,524.3,3.0,6.51,Aprobado
+PROD-00025,LOTE-017,Crema,Línea 1,Tarde,487.4,3.4,6.73,Aprobado
+PROD-00026,LOTE-006,Crema,Línea 2,Tarde,506.9,4.3,6.48,Rechazado
+PROD-00027,LOTE-020,Queso Gouda,Línea 2,Mañana,507.2,5.7,6.71,Aprobado
+PROD-00028,LOTE-011,Yogur Natural,Línea 3,Mañana,518.8,4.5,6.43,Aprobado
+PROD-00029,LOTE-004,Mantequilla,Línea 1,Mañana,499.2,4.0,6.65,Aprobado
+PROD-00030,LOTE-005,Leche Entera,Línea 1,Tarde,516.0,3.7,6.0,Aprobado
+PROD-00031,LOTE-004,Crema,Línea 2,Noche,491.7,2.4,6.55,En revisión
+PROD-00032,LOTE-012,Crema,Línea 1,Mañana,513.8,3.0,6.5,Aprobado
+PROD-00033,LOTE-014,Queso Gouda,Línea 1,Tarde,510.3,3.9,6.6,Aprobado
+PROD-00034,LOTE-006,Yogur Natural,Línea 1,Mañana,498.5,4.3,6.48,Aprobado
+PROD-00035,LOTE-005,Crema,Línea 1,Mañana,507.6,3.8,6.76,Aprobado
+PROD-00036,LOTE-017,Mantequilla,Línea 3,Tarde,500.3,4.1,6.15,Aprobado
+PROD-00037,LOTE-010,Yogur Natural,Línea 1,Noche,500.6,3.0,6.69,Rechazado
+PROD-00038,LOTE-015,Queso Gouda,Línea 2,Mañana,501.9,5.7,6.52,Aprobado
+PROD-00039,LOTE-016,Leche Entera,Línea 2,Tarde,508.2,3.7,6.41,Aprobado
+PROD-00040,LOTE-012,Leche Entera,Línea 2,Mañana,496.9,3.8,6.37,Aprobado
+PROD-00041,LOTE-007,Yogur Natural,Línea 1,Noche,506.4,4.1,6.27,Aprobado
+PROD-00042,LOTE-008,Leche Descremada,Línea 1,Tarde,501.9,3.0,6.06,Aprobado
+PROD-00043,LOTE-015,Leche Entera,Línea 3,Mañana,491.6,4.2,6.7,Aprobado
+PROD-00044,LOTE-013,Queso Gouda,Línea 3,Noche,512.9,5.3,6.57,Rechazado
+PROD-00045,LOTE-005,Leche Entera,Línea 2,Tarde,495.9,5.8,6.74,Aprobado
+PROD-00046,LOTE-004,Mantequilla,Línea 3,Tarde,511.6,4.0,6.76,Aprobado
+PROD-00047,LOTE-006,Yogur Natural,Línea 2,Mañana,502.8,5.2,6.45,Aprobado
+PROD-00048,LOTE-011,Crema,Línea 3,Tarde,504.9,3.2,6.5,Aprobado
+PROD-00049,LOTE-014,Crema,Línea 3,Mañana,508.9,5.1,6.52,Aprobado
+PROD-00050,LOTE-016,Leche Entera,Línea 2,Mañana,500.8,4.4,6.17,En revisión
+PROD-00051,LOTE-007,Queso Gouda,Línea 2,Noche,514.5,4.6,6.67,En revisión
+PROD-00052,LOTE-016,Queso Gouda,Línea 2,Tarde,492.9,4.7,6.11,Aprobado
+PROD-00053,LOTE-005,Queso Gouda,Línea 1,Noche,488.2,3.5,6.24,Aprobado
+PROD-00054,LOTE-016,Leche Entera,Línea 2,Noche,495.9,3.5,6.33,En revisión
+PROD-00055,LOTE-017,Leche Descremada,Línea 2,Mañana,502.5,3.3,6.53,Aprobado
+PROD-00056,LOTE-013,Crema,Línea 3,Tarde,509.3,3.6,6.28,Aprobado
+PROD-00057,LOTE-002,Mantequilla,Línea 1,Tarde,509.6,4.4,6.59,Aprobado
+PROD-00058,LOTE-005,Mantequilla,Línea 1,Tarde,512.0,4.5,6.76,Aprobado
+PROD-00059,LOTE-014,Mantequilla,Línea 2,Tarde,497.2,2.9,6.41,Aprobado
+PROD-00060,LOTE-002,Mantequilla,Línea 2,Tarde,521.9,5.7,6.55,Rechazado
+PROD-00061,LOTE-019,Crema,Línea 2,Tarde,498.3,4.1,6.4,Aprobado
+PROD-00062,LOTE-007,Leche Entera,Línea 1,Tarde,511.3,3.3,6.67,Aprobado
+PROD-00063,LOTE-016,Leche Descremada,Línea 1,Mañana,500.5,3.4,6.72,Aprobado
+PROD-00064,LOTE-017,Leche Entera,Línea 1,Tarde,460.0,2.5,6.88,Aprobado
+PROD-00065,LOTE-018,Yogur Natural,Línea 2,Noche,483.9,4.3,6.57,Aprobado
+PROD-00066,LOTE-005,Leche Descremada,Línea 2,Tarde,516.9,4.6,6.19,Aprobado
+PROD-00067,LOTE-018,Mantequilla,Línea 1,Mañana,503.4,4.5,6.41,Aprobado
+PROD-00068,LOTE-003,Queso Gouda,Línea 1,Tarde,503.7,3.8,6.33,Aprobado
+PROD-00069,LOTE-006,Leche Descremada,Línea 3,Mañana,515.2,5.3,6.62,Aprobado
+PROD-00070,LOTE-010,Queso Gouda,Línea 1,Mañana,498.0,4.7,6.58,Rechazado
+PROD-00071,LOTE-018,Leche Entera,Línea 3,Tarde,502.7,4.7,6.92,Aprobado
+PROD-00072,LOTE-014,Yogur Natural,Línea 1,Mañana,507.7,2.5,6.66,Aprobado
+PROD-00073,LOTE-011,Leche Descremada,Línea 1,Mañana,501.3,4.5,6.37,Aprobado
+PROD-00074,LOTE-017,Mantequilla,Línea 2,Tarde,506.3,3.3,6.75,Aprobado
+PROD-00075,LOTE-002,Crema,Línea 2,Noche,491.8,3.7,6.52,En revisión
+PROD-00076,LOTE-010,Yogur Natural,Línea 2,Noche,531.5,3.3,6.37,Aprobado
+PROD-00077,LOTE-012,Yogur Natural,Línea 2,Mañana,481.3,4.5,6.62,Aprobado
+PROD-00078,LOTE-002,Mantequilla,Línea 1,Mañana,500.5,2.9,6.27,Aprobado
+PROD-00079,LOTE-010,Queso Gouda,Línea 1,Tarde,493.6,2.6,6.8,Aprobado
+PROD-00080,LOTE-008,Crema,Línea 1,Mañana,483.5,4.8,6.03,En revisión
+PROD-00081,LOTE-015,Leche Descremada,Línea 2,Mañana,520.1,3.9,6.76,Aprobado
+PROD-00082,LOTE-018,Leche Entera,Línea 2,Mañana,506.5,3.4,6.52,Aprobado
+PROD-00083,LOTE-003,Queso Gouda,Línea 3,Tarde,486.3,5.9,6.58,Aprobado
+PROD-00084,LOTE-009,Crema,Línea 1,Noche,501.0,4.4,6.68,En revisión
+PROD-00085,LOTE-015,Crema,Línea 2,Noche,488.3,4.2,6.46,Aprobado
+PROD-00086,LOTE-015,Leche Entera,Línea 2,Tarde,499.6,5.6,6.59,Aprobado
+PROD-00087,LOTE-019,Yogur Natural,Línea 1,Noche,494.0,5.5,6.52,Aprobado
+PROD-00088,LOTE-014,Yogur Natural,Línea 3,Mañana,527.5,5.4,6.34,Aprobado
+PROD-00089,LOTE-002,Leche Entera,Línea 2,Noche,492.9,3.9,6.53,Aprobado
+PROD-00090,LOTE-006,Leche Descremada,Línea 2,Tarde,497.4,4.9,6.64,Aprobado
+PROD-00091,LOTE-008,Leche Entera,Línea 2,Noche,514.5,4.2,6.67,Aprobado
+PROD-00092,LOTE-003,Queso Gouda,Línea 3,Mañana,507.3,4.3,6.76,Aprobado
+PROD-00093,LOTE-010,Mantequilla,Línea 1,Tarde,483.4,4.4,6.54,Aprobado
+PROD-00094,LOTE-009,Crema,Línea 2,Tarde,506.2,4.3,6.68,En revisión
+PROD-00095,LOTE-012,Yogur Natural,Línea 2,Noche,495.2,4.2,6.52,Aprobado
+PROD-00096,LOTE-017,Leche Entera,Línea 2,Tarde,491.7,4.6,6.75,Aprobado
+PROD-00097,LOTE-012,Leche Entera,Línea 2,Tarde,483.9,4.2,6.71,Aprobado
+PROD-00098,LOTE-008,Mantequilla,Línea 1,Mañana,504.7,5.1,6.44,Aprobado
+PROD-00099,LOTE-008,Leche Entera,Línea 1,Tarde,474.2,3.7,6.42,Rechazado
+PROD-00100,LOTE-006,Queso Gouda,Línea 2,Tarde,507.1,4.6,6.7,Aprobado
+PROD-00101,LOTE-020,Queso Gouda,Línea 1,Mañana,517.7,4.5,6.69,Aprobado
+PROD-00102,LOTE-011,Yogur Natural,Línea 3,Mañana,488.4,5.7,6.59,Rechazado
+PROD-00103,LOTE-017,Crema,Línea 1,Mañana,491.3,4.8,6.74,En revisión
+PROD-00104,LOTE-018,Leche Entera,Línea 2,Noche,524.3,4.5,6.47,Aprobado
+PROD-00105,LOTE-019,Yogur Natural,Línea 1,Mañana,499.7,3.8,6.42,Aprobado
+PROD-00106,LOTE-009,Leche Entera,Línea 2,Mañana,506.1,3.9,6.49,En revisión
+PROD-00107,LOTE-016,Yogur Natural,Línea 3,Tarde,515.8,3.4,6.77,Aprobado
+PROD-00108,LOTE-013,Leche Descremada,Línea 1,Tarde,516.6,4.5,6.34,Aprobado
+PROD-00109,LOTE-012,Mantequilla,Línea 2,Noche,497.5,3.8,6.38,Aprobado
+PROD-00110,LOTE-006,Leche Entera,Línea 1,Mañana,497.3,3.4,6.25,Aprobado
+PROD-00111,LOTE-008,Leche Entera,Línea 2,Noche,496.7,4.9,6.12,Aprobado
+PROD-00112,LOTE-011,Mantequilla,Línea 3,Tarde,496.9,5.2,6.7,Aprobado
+PROD-00113,LOTE-007,Leche Descremada,Línea 1,Mañana,496.3,4.7,6.75,Aprobado
+PROD-00114,LOTE-016,Crema,Línea 2,Mañana,507.2,3.7,6.42,Aprobado
+PROD-00115,LOTE-014,Yogur Natural,Línea 1,Noche,491.9,5.1,6.66,Aprobado
+PROD-00116,LOTE-018,Crema,Línea 1,Mañana,490.8,4.0,6.63,Rechazado
+PROD-00117,LOTE-013,Leche Entera,Línea 1,Tarde,493.7,4.0,6.36,Aprobado
+PROD-00118,LOTE-012,Crema,Línea 1,Tarde,493.1,4.4,6.1,En revisión
+PROD-00119,LOTE-008,Mantequilla,Línea 2,Noche,531.0,3.6,6.28,Aprobado
+PROD-00120,LOTE-018,Yogur Natural,Línea 2,Mañana,480.7,4.3,6.57,En revisión
+PROD-00121,LOTE-008,Yogur Natural,Línea 2,Mañana,511.5,3.3,6.73,Aprobado
+PROD-00122,LOTE-015,Mantequilla,Línea 2,Mañana,483.9,3.8,6.76,Aprobado
+PROD-00123,LOTE-005,Yogur Natural,Línea 2,Mañana,501.8,4.0,6.8,Aprobado
+PROD-00124,LOTE-014,Queso Gouda,Línea 2,Tarde,482.6,3.2,6.66,Aprobado
+PROD-00125,LOTE-018,Mantequilla,Línea 1,Noche,491.5,3.0,6.69,Aprobado
+PROD-00126,LOTE-006,Crema,Línea 1,Mañana,495.6,3.6,6.63,Aprobado
+PROD-00127,LOTE-003,Leche Entera,Línea 2,Tarde,502.1,4.7,6.49,Aprobado
+PROD-00128,LOTE-005,Queso Gouda,Línea 1,Mañana,497.0,4.2,6.58,Aprobado
+PROD-00129,LOTE-018,Yogur Natural,Línea 1,Noche,502.8,4.4,6.52,Aprobado
+PROD-00130,LOTE-008,Leche Entera,Línea 3,Noche,512.2,3.9,6.83,Aprobado
+PROD-00131,LOTE-015,Mantequilla,Línea 1,Mañana,497.6,3.9,6.79,Aprobado
+PROD-00132,LOTE-019,Yogur Natural,Línea 1,Tarde,507.0,3.7,6.78,Aprobado
+PROD-00133,LOTE-018,Leche Entera,Línea 2,Noche,482.8,2.4,6.46,Aprobado
+PROD-00134,LOTE-016,Yogur Natural,Línea 3,Tarde,512.6,3.4,6.56,Aprobado
+PROD-00135,LOTE-014,Leche Entera,Línea 1,Mañana,507.7,3.7,6.65,En revisión
+PROD-00136,LOTE-010,Mantequilla,Línea 3,Noche,520.6,4.2,6.74,Aprobado
+PROD-00137,LOTE-005,Yogur Natural,Línea 1,Noche,510.9,4.6,6.55,Aprobado
+PROD-00138,LOTE-017,Yogur Natural,Línea 3,Tarde,495.2,4.7,6.43,Rechazado
+PROD-00139,LOTE-011,Leche Entera,Línea 2,Tarde,509.6,4.9,6.2,En revisión
+PROD-00140,LOTE-019,Queso Gouda,Línea 1,Mañana,486.3,5.2,6.74,Aprobado
+PROD-00141,LOTE-011,Leche Descremada,Línea 2,Mañana,480.3,3.5,6.96,Aprobado
+PROD-00142,LOTE-017,Yogur Natural,Línea 2,Mañana,501.6,3.8,6.41,Aprobado
+PROD-00143,LOTE-008,Leche Descremada,Línea 1,Tarde,511.0,4.3,6.72,Aprobado
+PROD-00144,LOTE-015,Leche Descremada,Línea 2,Noche,511.8,3.0,6.88,Aprobado
+PROD-00145,LOTE-016,Leche Descremada,Línea 1,Tarde,495.5,4.0,6.78,Aprobado
+PROD-00146,LOTE-016,Mantequilla,Línea 2,Mañana,512.6,3.9,6.76,Aprobado
+PROD-00147,LOTE-012,Leche Descremada,Línea 3,Mañana,503.5,4.1,6.46,Aprobado
+PROD-00148,LOTE-014,Yogur Natural,Línea 2,Tarde,499.1,3.9,6.72,Aprobado
+PROD-00149,LOTE-007,Leche Descremada,Línea 1,Tarde,489.0,4.2,7.0,Aprobado
+PROD-00150,LOTE-006,Yogur Natural,Línea 1,Noche,521.4,3.4,6.11,En revisión
+PROD-00151,LOTE-002,Yogur Natural,Línea 1,Tarde,487.3,3.9,6.36,Aprobado
+PROD-00152,LOTE-012,Leche Descremada,Línea 2,Tarde,487.0,5.1,6.88,Aprobado
+PROD-00153,LOTE-013,Yogur Natural,Línea 2,Mañana,495.1,4.3,6.67,Rechazado
+PROD-00154,LOTE-017,Mantequilla,Línea 1,Tarde,503.3,2.6,6.97,Aprobado
+PROD-00155,LOTE-015,Mantequilla,Línea 2,Mañana,487.9,3.7,6.66,Aprobado
+PROD-00156,LOTE-008,Yogur Natural,Línea 2,Noche,499.9,3.9,6.26,Aprobado
+PROD-00157,LOTE-015,Yogur Natural,Línea 3,Mañana,499.7,4.3,6.65,Aprobado
+PROD-00158,LOTE-012,Leche Descremada,Línea 3,Mañana,483.3,4.1,6.27,Aprobado
+PROD-00159,LOTE-008,Yogur Natural,Línea 3,Tarde,511.1,5.1,6.48,En revisión
+PROD-00160,LOTE-011,Crema,Línea 2,Tarde,481.6,5.7,6.75,Aprobado
+PROD-00161,LOTE-010,Crema,Línea 2,Noche,506.4,3.6,6.59,En revisión
+PROD-00162,LOTE-017,Crema,Línea 1,Noche,487.3,2.3,6.4,En revisión
+PROD-00163,LOTE-011,Mantequilla,Línea 1,Tarde,524.8,4.1,6.66,Aprobado
+PROD-00164,LOTE-014,Leche Entera,Línea 3,Tarde,506.4,4.3,6.29,Aprobado
+PROD-00165,LOTE-018,Yogur Natural,Línea 2,Mañana,522.7,3.6,6.62,Aprobado
+PROD-00166,LOTE-002,Crema,Línea 2,Tarde,515.6,3.3,6.67,Aprobado
+PROD-00167,LOTE-018,Yogur Natural,Línea 2,Mañana,476.7,4.5,6.8,Aprobado
+PROD-00168,LOTE-016,Crema,Línea 2,Mañana,483.8,4.3,6.69,En revisión
+PROD-00169,LOTE-008,Queso Gouda,Línea 2,Mañana,498.6,3.5,6.72,Aprobado
+PROD-00170,LOTE-016,Leche Entera,Línea 2,Mañana,491.1,4.3,6.48,Aprobado
+PROD-00171,LOTE-014,Queso Gouda,Línea 1,Noche,522.3,2.6,6.71,Aprobado
+PROD-00172,LOTE-009,Mantequilla,Línea 1,Tarde,497.1,4.3,6.73,Aprobado
+PROD-00173,LOTE-003,Queso Gouda,Línea 1,Tarde,507.4,4.2,6.82,Aprobado
+PROD-00174,LOTE-014,Queso Gouda,Línea 2,Tarde,493.2,5.7,6.46,Aprobado
+PROD-00175,LOTE-011,Leche Descremada,Línea 1,Tarde,510.8,3.1,6.41,Aprobado
+PROD-00176,LOTE-018,Queso Gouda,Línea 2,Tarde,494.1,3.5,6.59,Aprobado
+PROD-00177,LOTE-017,Yogur Natural,Línea 2,Tarde,509.8,3.3,6.63,Rechazado
+PROD-00178,LOTE-014,Queso Gouda,Línea 3,Mañana,491.1,5.4,6.49,Aprobado
+PROD-00179,LOTE-011,Leche Entera,Línea 2,Tarde,530.3,4.0,6.45,Aprobado
+PROD-00180,LOTE-010,Queso Gouda,Línea 1,Tarde,511.7,3.6,6.73,Aprobado
+PROD-00181,LOTE-003,Yogur Natural,Línea 2,Noche,508.6,4.8,6.45,Aprobado
+PROD-00182,LOTE-015,Crema,Línea 2,Noche,508.4,2.3,6.69,Aprobado
+PROD-00183,LOTE-016,Crema,Línea 1,Tarde,498.7,4.2,6.45,Aprobado
+PROD-00184,LOTE-017,Leche Descremada,Línea 3,Mañana,489.7,2.5,6.62,Rechazado
+PROD-00185,LOTE-006,Queso Gouda,Línea 1,Mañana,487.2,4.6,7.07,Aprobado
+PROD-00186,LOTE-006,Queso Gouda,Línea 3,Mañana,502.0,5.7,6.6,Aprobado
+PROD-00187,LOTE-002,Yogur Natural,Línea 3,Mañana,486.6,5.1,6.59,Aprobado
+PROD-00188,LOTE-003,Mantequilla,Línea 1,Mañana,516.9,3.3,6.35,Aprobado
+PROD-00189,LOTE-009,Queso Gouda,Línea 1,Mañana,503.5,4.0,6.73,Aprobado
+PROD-00190,LOTE-006,Queso Gouda,Línea 2,Mañana,520.6,4.4,6.41,Aprobado
+PROD-00191,LOTE-015,Mantequilla,Línea 2,Mañana,497.8,4.3,6.78,Aprobado
+PROD-00192,LOTE-015,Yogur Natural,Línea 2,Tarde,501.8,5.0,6.59,Aprobado
+PROD-00193,LOTE-002,Yogur Natural,Línea 1,Tarde,500.2,4.5,6.68,Aprobado
+PROD-00194,LOTE-011,Leche Entera,Línea 3,Mañana,511.1,5.0,6.56,Aprobado
+PROD-00195,LOTE-007,Yogur Natural,Línea 2,Mañana,499.6,3.9,6.48,Aprobado
+PROD-00196,LOTE-014,Yogur Natural,Línea 2,Mañana,486.5,3.8,6.26,En revisión
+PROD-00197,LOTE-005,Crema,Línea 1,Mañana,513.8,4.2,6.67,Aprobado
+PROD-00198,LOTE-002,Leche Entera,Línea 2,Tarde,491.0,4.9,6.42,Rechazado
+PROD-00199,LOTE-018,Crema,Línea 2,Mañana,489.7,3.2,6.74,Aprobado
+PROD-00200,LOTE-004,Crema,Línea 1,Noche,487.4,5.0,6.59,Aprobado
+PROD-00201,LOTE-013,Crema,Línea 3,Mañana,511.7,2.5,6.59,Aprobado
+PROD-00202,LOTE-008,Crema,Línea 1,Tarde,484.0,4.3,6.65,Aprobado
+PROD-00203,LOTE-006,Yogur Natural,Línea 2,Mañana,509.5,4.5,7.04,Aprobado
+PROD-00204,LOTE-013,Crema,Línea 2,Mañana,523.0,4.4,6.5,Aprobado
+PROD-00205,LOTE-014,Crema,Línea 2,Mañana,501.1,4.6,6.33,Aprobado
+PROD-00206,LOTE-003,Leche Descremada,Línea 1,Tarde,492.0,3.8,6.66,Aprobado
+PROD-00207,LOTE-015,Mantequilla,Línea 2,Tarde,512.7,4.9,6.63,Aprobado
+PROD-00208,LOTE-008,Leche Entera,Línea 1,Tarde,502.1,4.3,6.12,En revisión
+PROD-00209,LOTE-002,Leche Descremada,Línea 1,Tarde,487.4,3.7,6.97,Aprobado
+PROD-00210,LOTE-001,Queso Gouda,Línea 2,Noche,500.6,4.0,6.32,Aprobado
+PROD-00211,LOTE-007,Leche Entera,Línea 1,Noche,496.4,4.3,6.43,Aprobado
+PROD-00212,LOTE-003,Yogur Natural,Línea 2,Noche,479.2,4.8,6.78,Aprobado
+PROD-00213,LOTE-019,Mantequilla,Línea 2,Tarde,493.6,4.8,6.75,Aprobado
+PROD-00214,LOTE-010,Leche Entera,Línea 1,Tarde,519.6,4.5,6.63,Aprobado
+PROD-00215,LOTE-010,Mantequilla,Línea 1,Tarde,514.5,4.5,6.56,Aprobado
+PROD-00216,LOTE-011,Crema,Línea 3,Mañana,505.6,4.1,6.33,Aprobado
+PROD-00217,LOTE-013,Yogur Natural,Línea 3,Noche,508.5,4.9,6.48,Aprobado
+PROD-00218,LOTE-007,Crema,Línea 1,Tarde,503.9,3.7,6.27,Aprobado
+PROD-00219,LOTE-019,Yogur Natural,Línea 1,Mañana,502.4,3.2,6.56,En revisión
+PROD-00220,LOTE-015,Queso Gouda,Línea 1,Tarde,483.5,4.8,6.53,Aprobado
+PROD-00221,LOTE-001,Yogur Natural,Línea 1,Mañana,501.0,5.3,6.7,Aprobado
+PROD-00222,LOTE-010,Crema,Línea 1,Noche,486.6,4.8,6.78,Aprobado
+PROD-00223,LOTE-014,Yogur Natural,Línea 3,Mañana,505.4,5.3,6.66,Aprobado
+PROD-00224,LOTE-012,Queso Gouda,Línea 2,Mañana,485.7,4.2,6.63,Aprobado
+PROD-00225,LOTE-008,Yogur Natural,Línea 3,Noche,511.6,3.3,6.93,Aprobado
+PROD-00226,LOTE-003,Yogur Natural,Línea 3,Tarde,482.3,4.0,6.68,Aprobado
+PROD-00227,LOTE-003,Crema,Línea 2,Mañana,497.4,5.2,6.61,Aprobado
+PROD-00228,LOTE-017,Yogur Natural,Línea 1,Noche,503.0,4.1,6.73,Aprobado
+PROD-00229,LOTE-014,Yogur Natural,Línea 2,Mañana,480.3,4.1,6.44,Aprobado
+PROD-00230,LOTE-008,Leche Entera,Línea 3,Mañana,492.1,3.4,6.66,Aprobado
+PROD-00231,LOTE-001,Queso Gouda,Línea 1,Tarde,504.0,3.2,6.32,En revisión
+PROD-00232,LOTE-018,Queso Gouda,Línea 2,Tarde,503.9,4.5,6.66,Aprobado
+PROD-00233,LOTE-008,Leche Descremada,Línea 2,Mañana,493.6,5.4,6.79,Aprobado
+PROD-00234,LOTE-008,Crema,Línea 2,Tarde,488.1,4.3,6.61,Aprobado
+PROD-00235,LOTE-013,Queso Gouda,Línea 1,Mañana,485.4,3.2,6.45,Aprobado
+PROD-00236,LOTE-004,Queso Gouda,Línea 3,Tarde,502.7,4.4,6.25,Aprobado
+PROD-00237,LOTE-002,Mantequilla,Línea 2,Mañana,494.1,3.6,6.91,Aprobado
+PROD-00238,LOTE-004,Mantequilla,Línea 2,Noche,529.2,4.3,6.23,Aprobado
+PROD-00239,LOTE-002,Yogur Natural,Línea 2,Tarde,528.1,5.3,6.69,Aprobado
+PROD-00240,LOTE-014,Leche Descremada,Línea 3,Tarde,497.1,3.9,6.73,En revisión
+PROD-00241,LOTE-010,Queso Gouda,Línea 2,Tarde,494.8,4.0,6.69,Aprobado
+PROD-00242,LOTE-016,Queso Gouda,Línea 1,Tarde,504.4,4.4,6.65,Aprobado
+PROD-00243,LOTE-013,Leche Descremada,Línea 2,Tarde,509.5,3.2,6.35,Aprobado
+PROD-00244,LOTE-015,Leche Entera,Línea 3,Noche,517.8,3.5,6.78,Aprobado
+PROD-00245,LOTE-012,Leche Entera,Línea 1,Noche,476.5,4.9,6.87,En revisión
+PROD-00246,LOTE-003,Leche Entera,Línea 1,Noche,514.6,5.2,6.58,Aprobado
+PROD-00247,LOTE-014,Mantequilla,Línea 3,Tarde,499.5,4.0,6.58,Aprobado
+PROD-00248,LOTE-002,Leche Entera,Línea 3,Mañana,492.9,3.1,6.6,Aprobado
+PROD-00249,LOTE-007,Leche Entera,Línea 3,Mañana,491.0,4.0,6.89,Aprobado
+PROD-00250,LOTE-015,Leche Entera,Línea 2,Tarde,483.6,4.6,6.38,Aprobado
+PROD-00251,LOTE-015,Queso Gouda,Línea 2,Mañana,512.8,3.6,6.57,Aprobado
+PROD-00252,LOTE-006,Mantequilla,Línea 2,Tarde,484.7,5.6,6.39,Rechazado
+PROD-00253,LOTE-015,Queso Gouda,Línea 1,Mañana,501.0,3.5,6.82,En revisión
+PROD-00254,LOTE-001,Queso Gouda,Línea 1,Tarde,512.7,4.8,6.85,Aprobado
+PROD-00255,LOTE-005,Yogur Natural,Línea 2,Tarde,495.9,3.6,6.57,Aprobado
+PROD-00256,LOTE-010,Leche Entera,Línea 1,Mañana,495.3,5.9,6.32,Aprobado
+PROD-00257,LOTE-015,Yogur Natural,Línea 1,Mañana,496.8,3.0,6.41,Aprobado
+PROD-00258,LOTE-019,Leche Descremada,Línea 2,Tarde,521.1,3.5,6.28,Aprobado
+PROD-00259,LOTE-012,Yogur Natural,Línea 2,Mañana,487.6,4.6,6.71,Aprobado
+PROD-00260,LOTE-019,Yogur Natural,Línea 1,Mañana,502.4,4.2,6.34,En revisión
+PROD-00261,LOTE-008,Mantequilla,Línea 3,Tarde,517.6,2.6,6.33,Aprobado
+PROD-00262,LOTE-009,Yogur Natural,Línea 3,Tarde,504.8,2.8,6.48,Aprobado
+PROD-00263,LOTE-002,Queso Gouda,Línea 2,Mañana,472.0,4.5,6.75,Aprobado
+PROD-00264,LOTE-011,Queso Gouda,Línea 1,Mañana,497.1,4.1,6.55,Aprobado
+PROD-00265,LOTE-009,Leche Descremada,Línea 2,Tarde,498.4,4.0,6.21,Aprobado
+PROD-00266,LOTE-012,Mantequilla,Línea 2,Mañana,526.0,3.1,6.81,Rechazado
+PROD-00267,LOTE-003,Queso Gouda,Línea 2,Mañana,500.8,4.1,6.17,Aprobado
+PROD-00268,LOTE-013,Crema,Línea 3,Noche,490.6,3.0,6.58,Rechazado
+PROD-00269,LOTE-010,Queso Gouda,Línea 2,Noche,497.1,3.0,6.68,Aprobado
+PROD-00270,LOTE-005,Leche Entera,Línea 1,Noche,506.9,3.5,6.67,Rechazado
+PROD-00271,LOTE-011,Leche Descremada,Línea 1,Tarde,495.5,4.3,6.4,Aprobado
+PROD-00272,LOTE-008,Queso Gouda,Línea 1,Noche,506.1,5.4,6.39,Aprobado
+PROD-00273,LOTE-009,Leche Descremada,Línea 1,Tarde,484.2,2.9,6.69,Rechazado
+PROD-00274,LOTE-014,Crema,Línea 2,Tarde,497.9,4.3,6.36,Aprobado
+PROD-00275,LOTE-020,Yogur Natural,Línea 3,Tarde,492.5,3.7,6.82,Aprobado
+PROD-00276,LOTE-002,Yogur Natural,Línea 3,Mañana,495.9,3.3,6.53,Aprobado
+PROD-00277,LOTE-002,Leche Entera,Línea 2,Noche,510.2,4.1,6.25,Aprobado
+PROD-00278,LOTE-002,Leche Descremada,Línea 2,Mañana,495.4,4.1,6.78,Aprobado
+PROD-00279,LOTE-017,Yogur Natural,Línea 2,Tarde,492.7,5.2,6.63,Aprobado
+PROD-00280,LOTE-012,Queso Gouda,Línea 2,Mañana,519.2,4.8,6.48,Aprobado
+PROD-00281,LOTE-009,Crema,Línea 3,Mañana,505.0,4.1,6.62,Aprobado
+PROD-00282,LOTE-002,Mantequilla,Línea 2,Tarde,503.5,3.5,6.5,Aprobado
+PROD-00283,LOTE-001,Leche Entera,Línea 1,Mañana,483.6,4.8,6.61,Aprobado
+PROD-00284,LOTE-013,Queso Gouda,Línea 3,Tarde,499.0,4.8,6.93,Rechazado
+PROD-00285,LOTE-018,Leche Descremada,Línea 1,Tarde,495.6,4.1,6.23,Aprobado
+PROD-00286,LOTE-009,Yogur Natural,Línea 1,Noche,501.3,2.4,6.63,En revisión
+PROD-00287,LOTE-003,Leche Entera,Línea 3,Mañana,498.7,5.2,6.98,En revisión
+PROD-00288,LOTE-002,Mantequilla,Línea 1,Noche,494.1,3.6,6.58,Aprobado
+PROD-00289,LOTE-007,Crema,Línea 2,Tarde,482.4,4.3,6.64,Rechazado
+PROD-00290,LOTE-005,Mantequilla,Línea 1,Mañana,495.2,4.6,6.89,Aprobado
+PROD-00291,LOTE-002,Yogur Natural,Línea 3,Noche,481.5,4.3,6.78,Aprobado
+PROD-00292,LOTE-013,Yogur Natural,Línea 2,Noche,514.9,4.5,6.69,Aprobado
+PROD-00293,LOTE-017,Leche Entera,Línea 1,Noche,491.9,4.0,6.65,Aprobado
+PROD-00294,LOTE-013,Queso Gouda,Línea 1,Mañana,507.9,4.5,6.58,Rechazado
+PROD-00295,LOTE-005,Leche Descremada,Línea 2,Tarde,492.3,3.5,6.79,Rechazado
+PROD-00296,LOTE-012,Mantequilla,Línea 1,Tarde,499.6,5.4,6.67,Aprobado
+PROD-00297,LOTE-004,Leche Descremada,Línea 3,Mañana,470.1,4.7,6.7,Aprobado
+PROD-00298,LOTE-018,Leche Entera,Línea 3,Mañana,483.5,4.4,6.59,Aprobado
+PROD-00299,LOTE-010,Mantequilla,Línea 2,Tarde,496.6,2.7,6.46,Aprobado
+PROD-00300,LOTE-011,Yogur Natural,Línea 2,Mañana,503.1,3.6,6.64,Aprobado
+PROD-00301,LOTE-008,Queso Gouda,Línea 1,Tarde,505.3,3.8,6.74,Aprobado
+PROD-00302,LOTE-002,Mantequilla,Línea 3,Noche,519.0,4.4,6.7,Rechazado
+PROD-00303,LOTE-011,Yogur Natural,Línea 2,Mañana,507.0,5.1,6.31,Aprobado
+PROD-00304,LOTE-011,Yogur Natural,Línea 2,Tarde,478.3,4.8,6.72,Aprobado
+PROD-00305,LOTE-019,Mantequilla,Línea 1,Mañana,485.6,3.6,6.44,En revisión
+PROD-00306,LOTE-018,Leche Entera,Línea 2,Tarde,511.3,4.1,6.95,Aprobado
+PROD-00307,LOTE-015,Leche Entera,Línea 1,Noche,496.4,2.8,6.4,Aprobado
+PROD-00308,LOTE-008,Yogur Natural,Línea 2,Noche,515.3,4.7,6.72,Aprobado
+PROD-00309,LOTE-001,Yogur Natural,Línea 1,Mañana,494.1,5.3,6.45,Aprobado
+PROD-00310,LOTE-014,Leche Descremada,Línea 1,Tarde,490.3,4.4,6.62,Aprobado
+PROD-00311,LOTE-002,Crema,Línea 1,Mañana,494.6,5.0,6.67,Aprobado
+PROD-00312,LOTE-018,Leche Entera,Línea 2,Tarde,488.2,4.7,6.58,En revisión
+PROD-00313,LOTE-003,Yogur Natural,Línea 3,Tarde,498.0,3.1,6.62,Aprobado
+PROD-00314,LOTE-013,Leche Descremada,Línea 1,Mañana,523.2,3.0,6.54,Aprobado
+PROD-00315,LOTE-017,Mantequilla,Línea 3,Tarde,478.8,4.8,6.98,Aprobado
+PROD-00316,LOTE-002,Mantequilla,Línea 3,Noche,515.9,4.7,6.96,En revisión
+PROD-00317,LOTE-014,Leche Entera,Línea 2,Mañana,490.6,6.2,6.46,Aprobado
+PROD-00318,LOTE-007,Yogur Natural,Línea 2,Mañana,488.6,3.6,6.55,Aprobado
+PROD-00319,LOTE-013,Yogur Natural,Línea 1,Tarde,488.0,4.7,6.5,Rechazado
+PROD-00320,LOTE-004,Mantequilla,Línea 1,Mañana,492.3,4.3,6.48,Aprobado
+PROD-00321,LOTE-015,Yogur Natural,Línea 2,Tarde,502.9,5.2,6.85,Aprobado
+PROD-00322,LOTE-014,Mantequilla,Línea 3,Tarde,491.2,4.2,6.62,Aprobado
+PROD-00323,LOTE-020,Queso Gouda,Línea 3,Tarde,503.4,3.5,6.58,Aprobado
+PROD-00324,LOTE-003,Mantequilla,Línea 1,Mañana,488.2,4.8,6.57,Aprobado
+PROD-00325,LOTE-012,Queso Gouda,Línea 2,Mañana,512.9,5.2,6.79,En revisión
+PROD-00326,LOTE-001,Mantequilla,Línea 1,Tarde,504.5,4.8,6.49,Rechazado
+PROD-00327,LOTE-001,Yogur Natural,Línea 2,Mañana,488.2,4.1,6.42,En revisión
+PROD-00328,LOTE-016,Mantequilla,Línea 1,Noche,483.6,4.0,6.34,Aprobado
+PROD-00329,LOTE-003,Leche Entera,Línea 2,Mañana,506.0,4.1,6.38,Aprobado
+PROD-00330,LOTE-003,Crema,Línea 3,Tarde,525.1,3.8,6.61,Aprobado
+PROD-00331,LOTE-007,Queso Gouda,Línea 1,Mañana,470.9,3.7,6.49,Aprobado
+PROD-00332,LOTE-013,Mantequilla,Línea 2,Mañana,508.4,4.5,6.67,En revisión
+PROD-00333,LOTE-008,Leche Entera,Línea 3,Noche,492.6,5.5,6.43,Aprobado
+PROD-00334,LOTE-014,Leche Descremada,Línea 2,Tarde,501.7,4.9,6.55,Aprobado
+PROD-00335,LOTE-012,Crema,Línea 1,Mañana,495.4,4.3,6.74,Aprobado
+PROD-00336,LOTE-005,Mantequilla,Línea 1,Noche,479.1,4.7,6.33,Aprobado
+PROD-00337,LOTE-012,Mantequilla,Línea 1,Noche,502.9,3.9,6.64,Aprobado
+PROD-00338,LOTE-002,Crema,Línea 3,Mañana,514.4,5.3,6.47,Rechazado
+PROD-00339,LOTE-013,Leche Entera,Línea 2,Noche,500.0,4.6,6.82,Aprobado
+PROD-00340,LOTE-010,Leche Descremada,Línea 1,Tarde,508.0,2.7,6.66,Aprobado
+PROD-00341,LOTE-006,Leche Descremada,Línea 2,Mañana,493.7,3.4,6.12,Aprobado
+PROD-00342,LOTE-010,Leche Descremada,Línea 1,Mañana,478.2,4.2,6.7,Aprobado
+PROD-00343,LOTE-008,Mantequilla,Línea 2,Mañana,488.9,3.5,6.63,Aprobado
+PROD-00344,LOTE-013,Leche Entera,Línea 2,Mañana,508.9,4.3,6.89,Aprobado
+PROD-00345,LOTE-016,Mantequilla,Línea 2,Mañana,510.9,3.4,6.63,Aprobado
+PROD-00346,LOTE-015,Mantequilla,Línea 1,Tarde,524.8,3.4,6.57,Aprobado
+PROD-00347,LOTE-020,Yogur Natural,Línea 1,Noche,488.9,4.3,6.85,Aprobado
+PROD-00348,LOTE-002,Mantequilla,Línea 1,Tarde,493.7,5.3,6.5,Aprobado
+PROD-00349,LOTE-020,Mantequilla,Línea 2,Mañana,490.0,4.6,6.63,Rechazado
+PROD-00350,LOTE-012,Queso Gouda,Línea 2,Tarde,510.8,4.3,6.58,Aprobado
+PROD-00351,LOTE-012,Leche Entera,Línea 1,Tarde,477.8,4.6,6.54,Rechazado
+PROD-00352,LOTE-007,Leche Entera,Línea 1,Tarde,498.8,4.5,6.64,Aprobado
+PROD-00353,LOTE-010,Leche Entera,Línea 2,Tarde,509.9,3.6,6.59,Rechazado
+PROD-00354,LOTE-010,Leche Descremada,Línea 1,Mañana,497.0,5.4,6.63,Aprobado
+PROD-00355,LOTE-017,Queso Gouda,Línea 1,Mañana,509.3,3.5,6.71,En revisión
+PROD-00356,LOTE-011,Leche Descremada,Línea 1,Mañana,511.0,2.9,6.96,Aprobado
+PROD-00357,LOTE-018,Crema,Línea 2,Mañana,515.6,4.7,6.51,En revisión
+PROD-00358,LOTE-011,Queso Gouda,Línea 1,Tarde,505.2,4.4,6.51,En revisión
+PROD-00359,LOTE-004,Crema,Línea 1,Noche,502.2,5.7,6.32,Aprobado
+PROD-00360,LOTE-001,Crema,Línea 1,Mañana,496.5,3.1,6.82,Aprobado
+PROD-00361,LOTE-011,Yogur Natural,Línea 1,Tarde,494.7,2.4,6.71,Aprobado
+PROD-00362,LOTE-019,Leche Descremada,Línea 2,Tarde,497.7,3.5,6.46,Rechazado
+PROD-00363,LOTE-019,Queso Gouda,Línea 2,Mañana,490.7,3.5,6.83,Aprobado
+PROD-00364,LOTE-002,Crema,Línea 2,Mañana,495.7,3.6,6.22,Aprobado
+PROD-00365,LOTE-015,Leche Descremada,Línea 2,Tarde,490.0,4.6,6.44,Aprobado
+PROD-00366,LOTE-004,Queso Gouda,Línea 1,Mañana,504.6,3.9,6.53,Aprobado
+PROD-00367,LOTE-007,Leche Descremada,Línea 1,Noche,497.0,5.3,6.88,Aprobado
+PROD-00368,LOTE-004,Leche Entera,Línea 2,Tarde,514.3,4.4,6.8,En revisión
+PROD-00369,LOTE-014,Crema,Línea 1,Tarde,507.0,4.5,6.5,Aprobado
+PROD-00370,LOTE-005,Mantequilla,Línea 2,Tarde,503.7,4.1,6.6,En revisión
+PROD-00371,LOTE-004,Crema,Línea 1,Noche,512.6,4.8,6.51,Aprobado
+PROD-00372,LOTE-013,Leche Entera,Línea 3,Mañana,489.0,2.4,6.75,Aprobado
+PROD-00373,LOTE-017,Mantequilla,Línea 3,Mañana,476.5,4.1,6.57,Aprobado
+PROD-00374,LOTE-008,Leche Entera,Línea 1,Noche,506.7,3.9,6.58,Aprobado
+PROD-00375,LOTE-006,Leche Entera,Línea 1,Mañana,496.7,4.2,6.3,Aprobado
+PROD-00376,LOTE-008,Mantequilla,Línea 3,Mañana,500.9,4.8,6.64,En revisión
+PROD-00377,LOTE-001,Crema,Línea 2,Mañana,513.6,5.4,6.62,Aprobado
+PROD-00378,LOTE-016,Yogur Natural,Línea 1,Noche,497.1,3.9,6.34,Aprobado
+PROD-00379,LOTE-013,Leche Descremada,Línea 2,Tarde,503.2,3.7,6.38,En revisión
+PROD-00380,LOTE-008,Leche Entera,Línea 1,Mañana,495.1,4.4,6.62,Aprobado
+PROD-00381,LOTE-010,Mantequilla,Línea 2,Tarde,501.9,5.4,6.69,Aprobado
+PROD-00382,LOTE-008,Mantequilla,Línea 2,Mañana,479.9,4.6,6.72,Aprobado
+PROD-00383,LOTE-001,Queso Gouda,Línea 2,Noche,488.7,4.0,6.84,En revisión
+PROD-00384,LOTE-018,Yogur Natural,Línea 1,Mañana,491.3,5.1,6.51,Aprobado
+PROD-00385,LOTE-020,Queso Gouda,Línea 2,Mañana,493.1,3.7,6.35,Aprobado
+PROD-00386,LOTE-002,Leche Entera,Línea 2,Mañana,532.2,3.9,6.46,Aprobado
+PROD-00387,LOTE-006,Leche Entera,Línea 1,Mañana,504.5,4.9,6.75,Aprobado
+PROD-00388,LOTE-009,Mantequilla,Línea 2,Mañana,529.0,3.0,6.51,Aprobado
+PROD-00389,LOTE-018,Queso Gouda,Línea 3,Noche,502.6,2.0,6.99,Aprobado
+PROD-00390,LOTE-014,Leche Descremada,Línea 1,Mañana,478.8,3.9,6.38,Aprobado
+PROD-00391,LOTE-015,Yogur Natural,Línea 3,Tarde,502.8,3.4,6.65,Aprobado
+PROD-00392,LOTE-011,Yogur Natural,Línea 1,Noche,493.6,4.2,6.53,En revisión
+PROD-00393,LOTE-004,Queso Gouda,Línea 2,Mañana,531.2,5.3,6.86,Aprobado
+PROD-00394,LOTE-009,Leche Descremada,Línea 3,Mañana,491.7,3.7,6.24,Aprobado
+PROD-00395,LOTE-005,Yogur Natural,Línea 3,Mañana,500.4,3.7,6.73,Aprobado
+PROD-00396,LOTE-008,Queso Gouda,Línea 1,Tarde,512.4,3.6,6.77,Aprobado
+PROD-00397,LOTE-010,Leche Entera,Línea 1,Noche,508.9,4.9,6.48,Aprobado
+PROD-00398,LOTE-008,Crema,Línea 2,Mañana,474.0,2.9,6.75,Aprobado
+PROD-00399,LOTE-007,Leche Entera,Línea 1,Tarde,505.2,4.7,6.62,Aprobado
+PROD-00400,LOTE-008,Leche Entera,Línea 2,Tarde,505.0,3.9,6.65,Aprobado
+PROD-00401,LOTE-007,Crema,Línea 2,Tarde,495.6,5.3,6.56,Aprobado
+PROD-00402,LOTE-002,Leche Entera,Línea 2,Tarde,482.4,3.3,6.58,Aprobado
+PROD-00403,LOTE-006,Mantequilla,Línea 3,Tarde,513.5,4.1,6.71,Aprobado
+PROD-00404,LOTE-005,Crema,Línea 2,Mañana,483.6,4.7,6.74,Aprobado
+PROD-00405,LOTE-006,Queso Gouda,Línea 1,Noche,506.1,4.5,6.7,En revisión
+PROD-00406,LOTE-014,Yogur Natural,Línea 3,Tarde,512.6,3.7,6.77,Aprobado
+PROD-00407,LOTE-009,Mantequilla,Línea 1,Mañana,493.5,4.2,6.48,Aprobado
+PROD-00408,LOTE-016,Crema,Línea 2,Mañana,484.4,3.3,6.52,Aprobado
+PROD-00409,LOTE-005,Leche Descremada,Línea 2,Noche,485.9,5.6,6.84,En revisión
+PROD-00410,LOTE-010,Mantequilla,Línea 1,Tarde,491.1,4.7,6.72,Aprobado
+PROD-00411,LOTE-002,Yogur Natural,Línea 1,Noche,480.2,4.5,6.12,Aprobado
+PROD-00412,LOTE-015,Crema,Línea 1,Noche,498.4,4.2,6.36,Aprobado
+PROD-00413,LOTE-003,Leche Entera,Línea 1,Mañana,510.5,1.7,6.33,Aprobado
+PROD-00414,LOTE-012,Yogur Natural,Línea 3,Mañana,490.8,4.8,6.74,Aprobado
+PROD-00415,LOTE-014,Leche Entera,Línea 1,Mañana,505.0,4.4,6.49,Aprobado
+PROD-00416,LOTE-014,Queso Gouda,Línea 3,Tarde,489.9,5.4,6.67,Aprobado
+PROD-00417,LOTE-018,Yogur Natural,Línea 3,Tarde,496.0,4.4,6.6,Aprobado
+PROD-00418,LOTE-016,Yogur Natural,Línea 2,Tarde,495.9,4.3,6.52,Aprobado
+PROD-00419,LOTE-018,Queso Gouda,Línea 2,Mañana,524.0,4.6,6.7,Aprobado
+PROD-00420,LOTE-006,Crema,Línea 1,Tarde,521.4,3.7,6.46,Aprobado
+PROD-00421,LOTE-011,Queso Gouda,Línea 2,Tarde,507.2,5.9,6.78,Aprobado
+PROD-00422,LOTE-007,Yogur Natural,Línea 2,Noche,470.1,3.6,6.67,Aprobado
+PROD-00423,LOTE-018,Yogur Natural,Línea 3,Tarde,492.3,4.2,6.64,Aprobado
+PROD-00424,LOTE-007,Leche Entera,Línea 3,Mañana,498.2,6.1,6.83,Aprobado
+PROD-00425,LOTE-020,Leche Descremada,Línea 2,Mañana,508.0,4.4,6.36,Aprobado
+PROD-00426,LOTE-020,Mantequilla,Línea 1,Noche,468.7,3.3,6.65,Aprobado
+PROD-00427,LOTE-015,Queso Gouda,Línea 2,Noche,498.2,3.2,6.16,Aprobado
+PROD-00428,LOTE-008,Yogur Natural,Línea 3,Mañana,480.0,3.8,6.84,Aprobado
+PROD-00429,LOTE-006,Leche Descremada,Línea 2,Mañana,506.8,3.9,6.64,Aprobado
+PROD-00430,LOTE-013,Queso Gouda,Línea 1,Noche,505.7,3.4,6.75,Aprobado
+PROD-00431,LOTE-006,Leche Entera,Línea 2,Mañana,505.2,3.8,6.59,Aprobado
+PROD-00432,LOTE-003,Leche Entera,Línea 1,Noche,512.6,4.2,6.79,Aprobado
+PROD-00433,LOTE-018,Yogur Natural,Línea 2,Tarde,496.7,4.5,6.65,Aprobado
+PROD-00434,LOTE-004,Crema,Línea 2,Tarde,491.5,4.0,6.71,Aprobado
+PROD-00435,LOTE-014,Mantequilla,Línea 3,Mañana,489.5,5.1,6.75,Aprobado
+PROD-00436,LOTE-015,Queso Gouda,Línea 1,Tarde,509.5,4.4,6.54,Aprobado
+PROD-00437,LOTE-014,Mantequilla,Línea 3,Mañana,487.1,3.6,6.25,Aprobado
+PROD-00438,LOTE-011,Leche Entera,Línea 3,Mañana,509.8,5.0,6.57,Aprobado
+PROD-00439,LOTE-019,Mantequilla,Línea 3,Mañana,487.2,4.7,6.32,Aprobado
+PROD-00440,LOTE-020,Leche Entera,Línea 3,Tarde,507.9,4.3,6.59,Aprobado
+PROD-00441,LOTE-015,Yogur Natural,Línea 2,Tarde,484.5,3.7,7.0,Aprobado
+PROD-00442,LOTE-004,Mantequilla,Línea 3,Noche,505.9,4.3,6.52,Aprobado
+PROD-00443,LOTE-003,Leche Entera,Línea 3,Mañana,510.7,4.8,6.42,Aprobado
+PROD-00444,LOTE-012,Yogur Natural,Línea 2,Tarde,491.0,3.1,6.64,Aprobado
+PROD-00445,LOTE-016,Leche Descremada,Línea 2,Noche,495.9,2.9,6.81,Aprobado
+PROD-00446,LOTE-004,Leche Descremada,Línea 1,Tarde,495.1,3.0,6.72,Aprobado
+PROD-00447,LOTE-010,Crema,Línea 2,Tarde,487.5,3.4,6.73,Aprobado
+PROD-00448,LOTE-019,Yogur Natural,Línea 2,Mañana,492.1,3.4,6.67,Aprobado
+PROD-00449,LOTE-005,Leche Descremada,Línea 2,Mañana,503.4,4.7,6.32,Aprobado
+PROD-00450,LOTE-012,Leche Entera,Línea 3,Noche,507.1,5.0,6.48,Aprobado
+PROD-00451,LOTE-002,Leche Descremada,Línea 3,Tarde,478.0,4.0,6.86,Rechazado
+PROD-00452,LOTE-004,Leche Descremada,Línea 2,Mañana,523.5,4.4,6.57,Aprobado
+PROD-00453,LOTE-017,Queso Gouda,Línea 1,Tarde,495.5,3.3,6.41,Aprobado
+PROD-00454,LOTE-001,Mantequilla,Línea 3,Tarde,490.0,3.4,6.27,Aprobado
+PROD-00455,LOTE-006,Leche Descremada,Línea 1,Tarde,508.7,4.4,6.37,Aprobado
+PROD-00456,LOTE-018,Crema,Línea 1,Noche,515.2,3.3,6.37,Aprobado
+PROD-00457,LOTE-011,Yogur Natural,Línea 3,Tarde,477.4,3.6,6.56,Aprobado
+PROD-00458,LOTE-005,Mantequilla,Línea 1,Mañana,489.5,4.3,6.63,Aprobado
+PROD-00459,LOTE-015,Leche Descremada,Línea 1,Noche,508.7,3.3,6.67,Aprobado
+PROD-00460,LOTE-006,Mantequilla,Línea 2,Tarde,522.8,4.0,6.55,Aprobado
+PROD-00461,LOTE-004,Yogur Natural,Línea 1,Mañana,507.0,3.6,6.41,Aprobado
+PROD-00462,LOTE-012,Leche Entera,Línea 2,Tarde,507.4,5.2,6.82,Aprobado
+PROD-00463,LOTE-006,Queso Gouda,Línea 2,Noche,520.6,2.5,6.84,Aprobado
+PROD-00464,LOTE-007,Mantequilla,Línea 1,Mañana,513.4,4.0,6.61,Aprobado
+PROD-00465,LOTE-014,Leche Entera,Línea 2,Mañana,493.0,3.8,6.47,Aprobado
+PROD-00466,LOTE-014,Leche Entera,Línea 2,Noche,503.1,5.6,6.57,Aprobado
+PROD-00467,LOTE-019,Leche Descremada,Línea 2,Tarde,510.1,4.1,6.6,Aprobado
+PROD-00468,LOTE-015,Yogur Natural,Línea 1,Noche,520.2,4.3,6.8,En revisión
+PROD-00469,LOTE-007,Crema,Línea 3,Tarde,492.7,5.0,6.58,Aprobado
+PROD-00470,LOTE-003,Mantequilla,Línea 1,Noche,501.3,4.1,6.5,Aprobado
+PROD-00471,LOTE-020,Queso Gouda,Línea 1,Tarde,509.8,4.1,6.62,Aprobado
+PROD-00472,LOTE-003,Yogur Natural,Línea 1,Noche,477.3,4.3,6.91,Aprobado
+PROD-00473,LOTE-004,Queso Gouda,Línea 3,Mañana,474.9,4.4,6.99,Aprobado
+PROD-00474,LOTE-008,Leche Entera,Línea 2,Mañana,511.4,2.8,6.76,En revisión
+PROD-00475,LOTE-015,Yogur Natural,Línea 2,Mañana,485.8,4.9,6.46,Aprobado
+PROD-00476,LOTE-016,Queso Gouda,Línea 2,Tarde,486.6,4.6,6.66,Aprobado
+PROD-00477,LOTE-014,Leche Descremada,Línea 1,Noche,490.7,4.1,6.21,Aprobado
+PROD-00478,LOTE-020,Mantequilla,Línea 3,Mañana,515.3,3.5,6.61,Aprobado
+PROD-00479,LOTE-015,Yogur Natural,Línea 3,Mañana,493.6,3.9,6.59,Aprobado
+PROD-00480,LOTE-012,Queso Gouda,Línea 2,Noche,497.4,4.1,6.36,Aprobado
+PROD-00481,LOTE-009,Queso Gouda,Línea 3,Noche,512.5,4.5,6.56,En revisión
+PROD-00482,LOTE-017,Leche Entera,Línea 2,Mañana,508.1,4.1,6.74,Aprobado
+PROD-00483,LOTE-003,Crema,Línea 3,Mañana,511.5,3.4,6.19,Aprobado
+PROD-00484,LOTE-017,Leche Descremada,Línea 2,Tarde,514.2,3.6,6.33,Rechazado
+PROD-00485,LOTE-002,Queso Gouda,Línea 3,Tarde,511.0,4.1,6.4,En revisión
+PROD-00486,LOTE-016,Yogur Natural,Línea 1,Tarde,509.1,3.8,6.54,Aprobado
+PROD-00487,LOTE-017,Yogur Natural,Línea 1,Noche,537.1,5.2,6.17,Aprobado
+PROD-00488,LOTE-007,Leche Entera,Línea 3,Tarde,498.0,4.8,6.99,Aprobado
+PROD-00489,LOTE-003,Mantequilla,Línea 2,Mañana,476.0,3.8,6.63,Aprobado
+PROD-00490,LOTE-010,Mantequilla,Línea 2,Mañana,502.5,4.4,6.38,Aprobado
+PROD-00491,LOTE-010,Crema,Línea 1,Mañana,522.8,3.7,6.64,Aprobado
+PROD-00492,LOTE-017,Mantequilla,Línea 1,Mañana,504.5,3.0,6.55,En revisión
+PROD-00493,LOTE-012,Crema,Línea 2,Tarde,522.5,4.3,6.6,Rechazado
+PROD-00494,LOTE-006,Leche Entera,Línea 2,Mañana,514.0,3.1,6.72,Aprobado
+PROD-00495,LOTE-020,Yogur Natural,Línea 2,Tarde,470.4,3.8,6.56,Aprobado
+PROD-00496,LOTE-013,Queso Gouda,Línea 2,Mañana,488.5,3.7,6.65,Aprobado
+PROD-00497,LOTE-019,Crema,Línea 3,Mañana,494.0,4.8,6.44,Rechazado
+PROD-00498,LOTE-004,Mantequilla,Línea 1,Mañana,490.2,3.5,6.93,Aprobado
+PROD-00499,LOTE-006,Mantequilla,Línea 2,Tarde,490.7,5.6,6.85,En revisión
+PROD-00500,LOTE-012,Queso Gouda,Línea 1,Mañana,507.3,4.7,6.43,Aprobado
