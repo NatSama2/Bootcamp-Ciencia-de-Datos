@@ -1,0 +1,151 @@
+id_incidente,sucursal,categoria,prioridad,estado,tiempo_resolucion_min,tecnico_asignado
+2001,Rancagua,Red,Baja,Pendiente,52,TEC-01
+2002,Valparaíso,Hardware,Alta,Pendiente,28,TEC-01
+2003,Valparaíso,Hardware,Baja,Resuelto,96,TEC-08
+2004,Temuco,Hardware,Alta,Resuelto,44,TEC-03
+2005,Santiago,Red,Baja,Resuelto,20,TEC-07
+2006,Antofagasta,Acceso,Baja,Resuelto,46,TEC-01
+2007,Valparaíso,Base de datos,Media,Resuelto,35,TEC-05
+2008,Santiago,Acceso,Baja,Resuelto,29,TEC-06
+2009,Valparaíso,Base de datos,Media,Resuelto,28,TEC-08
+2010,La Serena,Acceso,Alta,Pendiente,37,TEC-05
+2011,Temuco,Hardware,Alta,Pendiente,36,TEC-07
+2012,Antofagasta,Acceso,Baja,Pendiente,74,TEC-08
+2013,Santiago,Software,Media,Pendiente,16,TEC-02
+2014,Antofagasta,Software,Alta,Resuelto,63,TEC-02
+2015,Rancagua,Hardware,Media,Resuelto,10,TEC-03
+2016,Temuco,Acceso,Alta,Resuelto,18,TEC-08
+2017,Antofagasta,Hardware,Media,Resuelto,153,TEC-07
+2018,Valparaíso,Red,Alta,Resuelto,133,TEC-07
+2019,Rancagua,Hardware,Media,Resuelto,21,TEC-08
+2020,Temuco,Red,Alta,Resuelto,54,TEC-05
+2021,La Serena,Hardware,Baja,Resuelto,13,TEC-03
+2022,Santiago,Software,Media,Pendiente,48,TEC-03
+2023,Rancagua,Red,Media,Pendiente,45,TEC-07
+2024,Rancagua,Software,Media,Resuelto,26,TEC-01
+2025,Rancagua,Acceso,Alta,Pendiente,21,TEC-07
+2026,Valparaíso,Base de datos,Baja,Pendiente,44,TEC-04
+2027,Valparaíso,Software,Media,Pendiente,10,TEC-05
+2028,Valparaíso,Acceso,Media,Pendiente,49,TEC-04
+2029,Temuco,Hardware,Media,Pendiente,58,TEC-05
+2030,Temuco,Red,Baja,Resuelto,26,TEC-01
+2031,Rancagua,Hardware,Baja,Resuelto,93,TEC-03
+2032,Valparaíso,Red,Baja,Resuelto,14,TEC-02
+2033,Rancagua,Base de datos,Media,Pendiente,82,TEC-05
+2034,Talca,Hardware,Media,Resuelto,32,TEC-02
+2035,Valparaíso,Software,Media,Resuelto,82,TEC-08
+2036,Santiago,Hardware,Media,Resuelto,37,TEC-01
+2037,Talca,Acceso,Media,Resuelto,15,TEC-04
+2038,Temuco,Acceso,Media,Pendiente,29,TEC-04
+2039,Santiago,Software,Baja,Resuelto,17,TEC-01
+2040,Temuco,Software,Baja,Resuelto,82,TEC-07
+2041,Valparaíso,Red,Alta,Resuelto,138,TEC-07
+2042,Talca,Hardware,Media,Pendiente,29,TEC-05
+2043,Talca,Software,Alta,Resuelto,106,TEC-02
+2044,Valparaíso,Acceso,Baja,Pendiente,23,TEC-01
+2045,Santiago,Hardware,Baja,Resuelto,46,TEC-05
+2046,La Serena,Acceso,Alta,Pendiente,125,TEC-03
+2047,Antofagasta,Software,Alta,Resuelto,90,TEC-07
+2048,Santiago,Software,Alta,Resuelto,11,TEC-04
+2049,Antofagasta,Base de datos,Alta,Resuelto,80,TEC-07
+2050,Santiago,Hardware,Alta,Pendiente,70,TEC-01
+2051,La Serena,Hardware,Baja,Resuelto,10,TEC-07
+2052,La Serena,Red,Media,Pendiente,103,TEC-02
+2053,Valparaíso,Base de datos,Alta,Resuelto,44,TEC-01
+2054,Santiago,Hardware,Baja,Resuelto,253,TEC-07
+2055,La Serena,Acceso,Media,Resuelto,31,TEC-05
+2056,La Serena,Hardware,Alta,Resuelto,31,TEC-05
+2057,Talca,Acceso,Media,Pendiente,35,TEC-05
+2058,Antofagasta,Software,Alta,Pendiente,13,TEC-04
+2059,Santiago,Hardware,Media,Pendiente,29,TEC-01
+2060,Valparaíso,Base de datos,Alta,Resuelto,36,TEC-04
+2061,Santiago,Software,Baja,Resuelto,44,TEC-02
+2062,La Serena,Acceso,Baja,Pendiente,10,TEC-08
+2063,Santiago,Hardware,Baja,Resuelto,10,TEC-04
+2064,Talca,Base de datos,Media,Pendiente,27,TEC-05
+2065,Rancagua,Acceso,Media,Resuelto,30,TEC-01
+2066,Antofagasta,Red,Baja,Pendiente,40,TEC-04
+2067,Antofagasta,Hardware,Media,Pendiente,21,TEC-06
+2068,Temuco,Red,Media,Resuelto,31,TEC-06
+2069,La Serena,Software,Media,Pendiente,51,TEC-07
+2070,Santiago,Software,Media,Pendiente,36,TEC-02
+2071,Temuco,Red,Alta,Pendiente,47,TEC-02
+2072,Valparaíso,Red,Alta,Pendiente,26,TEC-02
+2073,Valparaíso,Base de datos,Alta,Pendiente,12,TEC-02
+2074,La Serena,Software,Media,Pendiente,43,TEC-06
+2075,Valparaíso,Base de datos,Media,Resuelto,10,TEC-02
+2076,Santiago,Red,Media,Resuelto,12,TEC-08
+2077,Valparaíso,Acceso,Alta,Pendiente,22,TEC-04
+2078,Valparaíso,Acceso,Alta,Pendiente,38,TEC-05
+2079,Antofagasta,Base de datos,Media,Resuelto,31,TEC-01
+2080,La Serena,Hardware,Media,Resuelto,12,TEC-08
+2081,Santiago,Software,Baja,Pendiente,178,TEC-08
+2082,Valparaíso,Software,Media,Pendiente,14,TEC-04
+2083,La Serena,Base de datos,Baja,Resuelto,26,TEC-02
+2084,Antofagasta,Software,Media,Resuelto,68,TEC-02
+2085,Valparaíso,Base de datos,Media,Pendiente,37,TEC-07
+2086,La Serena,Red,Alta,Resuelto,29,TEC-04
+2087,Valparaíso,Software,Media,Resuelto,74,TEC-04
+2088,Antofagasta,Software,Alta,Resuelto,33,TEC-05
+2089,Valparaíso,Hardware,Alta,Resuelto,13,TEC-02
+2090,La Serena,Software,Media,Pendiente,162,TEC-05
+2091,Rancagua,Base de datos,Alta,Pendiente,34,TEC-02
+2092,Valparaíso,Hardware,Alta,Pendiente,14,TEC-01
+2093,Santiago,Hardware,Media,Resuelto,129,TEC-03
+2094,Rancagua,Red,Media,Pendiente,18,TEC-05
+2095,Valparaíso,Acceso,Alta,Pendiente,20,TEC-02
+2096,La Serena,Software,Media,Resuelto,15,TEC-01
+2097,Temuco,Hardware,Media,Resuelto,107,TEC-07
+2098,Valparaíso,Acceso,Media,Pendiente,10,TEC-08
+2099,Antofagasta,Acceso,Media,Resuelto,53,TEC-03
+2100,Talca,Acceso,Media,Resuelto,138,TEC-06
+2101,Valparaíso,Base de datos,Baja,Resuelto,37,TEC-04
+2102,Temuco,Hardware,Alta,Resuelto,22,TEC-02
+2103,Santiago,Software,Baja,Resuelto,33,TEC-03
+2104,Santiago,Acceso,Alta,Resuelto,52,TEC-06
+2105,La Serena,Software,Media,Resuelto,15,TEC-04
+2106,Rancagua,Software,Alta,Resuelto,44,TEC-03
+2107,Santiago,Red,Media,Resuelto,18,TEC-04
+2108,Temuco,Hardware,Alta,Resuelto,31,TEC-01
+2109,La Serena,Acceso,Baja,Pendiente,22,TEC-07
+2110,Santiago,Base de datos,Media,Pendiente,61,TEC-05
+2111,Santiago,Software,Alta,Resuelto,139,TEC-04
+2112,Valparaíso,Acceso,Media,Resuelto,11,TEC-01
+2113,Antofagasta,Acceso,Media,Resuelto,32,TEC-01
+2114,Santiago,Red,Media,Resuelto,63,TEC-02
+2115,Talca,Software,Media,Pendiente,23,TEC-01
+2116,Santiago,Software,Baja,Resuelto,36,TEC-01
+2117,Santiago,Software,Media,Resuelto,115,TEC-01
+2118,Antofagasta,Hardware,Baja,Pendiente,11,TEC-01
+2119,Santiago,Acceso,Media,Pendiente,44,TEC-01
+2120,Temuco,Acceso,Media,Resuelto,81,TEC-01
+2121,Valparaíso,Hardware,Media,Pendiente,42,TEC-03
+2122,Santiago,Acceso,Baja,Resuelto,35,TEC-08
+2123,Temuco,Software,Media,Pendiente,77,TEC-01
+2124,Antofagasta,Hardware,Baja,Pendiente,39,TEC-07
+2125,Santiago,Hardware,Alta,Resuelto,56,TEC-06
+2126,Antofagasta,Base de datos,Baja,Pendiente,134,TEC-08
+2127,Santiago,Hardware,Media,Pendiente,19,TEC-05
+2128,La Serena,Red,Alta,Pendiente,19,TEC-06
+2129,Talca,Hardware,Alta,Pendiente,10,TEC-05
+2130,Santiago,Software,Baja,Resuelto,19,TEC-04
+2131,Antofagasta,Base de datos,Alta,Resuelto,156,TEC-05
+2132,Santiago,Base de datos,Alta,Pendiente,17,TEC-06
+2133,Santiago,Red,Baja,Resuelto,40,TEC-01
+2134,Temuco,Red,Media,Pendiente,19,TEC-02
+2135,Valparaíso,Red,Media,Pendiente,28,TEC-05
+2136,Santiago,Acceso,Alta,Pendiente,53,TEC-06
+2137,Santiago,Acceso,Alta,Resuelto,53,TEC-02
+2138,Antofagasta,Hardware,Baja,Resuelto,11,TEC-07
+2139,Santiago,Hardware,Media,Pendiente,44,TEC-06
+2140,Temuco,Acceso,Baja,Pendiente,80,TEC-05
+2141,Santiago,Red,Alta,Pendiente,69,TEC-01
+2142,Talca,Software,Alta,Pendiente,32,TEC-03
+2143,Temuco,Acceso,Media,Pendiente,66,TEC-05
+2144,Rancagua,Hardware,Baja,Pendiente,40,TEC-06
+2145,Antofagasta,Acceso,Media,Resuelto,19,TEC-03
+2146,Santiago,Software,Baja,Resuelto,81,TEC-04
+2147,Valparaíso,Red,Media,Pendiente,67,TEC-06
+2148,La Serena,Base de datos,Media,Pendiente,77,TEC-04
+2149,Rancagua,Acceso,Alta,Pendiente,42,TEC-02
+2150,La Serena,Hardware,Media,Pendiente,26,TEC-06

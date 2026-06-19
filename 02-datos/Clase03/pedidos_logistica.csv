@@ -1,0 +1,181 @@
+id_pedido,fecha,ciudad,producto,transportista,costo,entregado
+PED-1001,2024-07-01,Santiago,Alimentos,ChileLog,46100,Sí
+PED-1002,2024-07-01,Santiago,Electrónica,TransRápido,19700,Sí
+PED-1003,2024-07-01,Puerto Montt,Alimentos,ChileLog,47400,Sí
+PED-1004,2024-07-01,Puerto Montt,Electrónica,EnvíoYa,21400,No
+PED-1005,2024-07-01,Puerto Montt,Alimentos,EnvíoYa,44100,Sí
+PED-1006,2024-07-01,Concepción,Ropa,ChileLog,22500,Sí
+PED-1007,2024-07-01,Temuco,Ropa,TransRápido,19200,Sí
+PED-1008,2024-07-01,Santiago,Calzado,ChileLog,21700,Sí
+PED-1009,2024-07-01,Antofagasta,Ropa,ChileLog,45900,Sí
+PED-1010,2024-07-01,Santiago,Calzado,ChileLog,34100,Sí
+PED-1011,2024-07-01,Puerto Montt,Libros,TransRápido,51400,Sí
+PED-1012,2024-07-01,Concepción,Electrónica,ChileLog,26600,Sí
+PED-1013,2024-07-01,Concepción,Alimentos,EnvíoYa,82100,Sí
+PED-1014,2024-07-01,Santiago,Muebles,TransRápido,14900,Sí
+PED-1015,2024-07-01,Concepción,Ropa,TransRápido,34200,No
+PED-1016,2024-07-01,Antofagasta,Ropa,ChileLog,18600,Sí
+PED-1017,2024-07-01,Valparaíso,Ropa,TransRápido,42500,No
+PED-1018,2024-07-01,La Serena,Electrónica,TransRápido,85000,No
+PED-1019,2024-07-01,Santiago,Alimentos,ChileLog,40200,Sí
+PED-1020,2024-07-01,Antofagasta,Alimentos,MoverCargo,64700,Sí
+PED-1021,2024-07-01,Concepción,Alimentos,ChileLog,49300,Sí
+PED-1022,2024-07-01,Santiago,Ropa,TransRápido,39600,Sí
+PED-1023,2024-07-01,Concepción,Electrónica,MoverCargo,64000,Sí
+PED-1024,2024-07-01,La Serena,Libros,TransRápido,40000,No
+PED-1025,2024-07-02,Concepción,Ropa,ChileLog,36600,Sí
+PED-1026,2024-07-02,Valparaíso,Electrónica,EnvíoYa,31000,Sí
+PED-1027,2024-07-02,Iquique,Ropa,EnvíoYa,51300,No
+PED-1028,2024-07-02,Valparaíso,Ropa,TransRápido,16100,Sí
+PED-1029,2024-07-02,Iquique,Ropa,ChileLog,67500,No
+PED-1030,2024-07-02,Antofagasta,Ropa,TransRápido,9900,No
+PED-1031,2024-07-02,Valparaíso,Libros,MoverCargo,34100,Sí
+PED-1032,2024-07-02,Santiago,Calzado,MoverCargo,52200,Sí
+PED-1033,2024-07-02,Santiago,Ropa,ChileLog,24100,Sí
+PED-1034,2024-07-02,Santiago,Ropa,TransRápido,43100,Sí
+PED-1035,2024-07-02,Santiago,Ropa,ChileLog,24000,Sí
+PED-1036,2024-07-02,Valparaíso,Ropa,EnvíoYa,26500,No
+PED-1037,2024-07-02,Santiago,Muebles,TransRápido,72000,Sí
+PED-1038,2024-07-02,Concepción,Electrónica,TransRápido,52300,Sí
+PED-1039,2024-07-02,Valparaíso,Libros,EnvíoYa,25100,No
+PED-1040,2024-07-02,Santiago,Libros,TransRápido,21600,Sí
+PED-1041,2024-07-02,Concepción,Electrónica,EnvíoYa,53700,No
+PED-1042,2024-07-02,Temuco,Alimentos,TransRápido,22000,Sí
+PED-1043,2024-07-02,Valparaíso,Calzado,TransRápido,46100,Sí
+PED-1044,2024-07-02,Santiago,Ropa,ChileLog,37900,No
+PED-1045,2024-07-02,Antofagasta,Alimentos,EnvíoYa,25000,Sí
+PED-1046,2024-07-02,Temuco,Calzado,MoverCargo,54800,No
+PED-1047,2024-07-02,Iquique,Electrónica,EnvíoYa,131600,Sí
+PED-1048,2024-07-02,Antofagasta,Electrónica,EnvíoYa,10600,Sí
+PED-1049,2024-07-03,Iquique,Ropa,ChileLog,22400,Sí
+PED-1050,2024-07-03,Concepción,Calzado,ChileLog,27800,Sí
+PED-1051,2024-07-03,Santiago,Libros,ChileLog,24200,No
+PED-1052,2024-07-03,Iquique,Ropa,EnvíoYa,79200,Sí
+PED-1053,2024-07-03,Santiago,Ropa,ChileLog,32800,Sí
+PED-1054,2024-07-03,Valparaíso,Calzado,TransRápido,47200,No
+PED-1055,2024-07-03,Santiago,Alimentos,MoverCargo,46400,Sí
+PED-1056,2024-07-03,Antofagasta,Alimentos,ChileLog,78900,No
+PED-1057,2024-07-03,Valparaíso,Libros,TransRápido,17100,Sí
+PED-1058,2024-07-03,Santiago,Alimentos,MoverCargo,29400,No
+PED-1059,2024-07-03,Santiago,Ropa,ChileLog,17800,No
+PED-1060,2024-07-03,Valparaíso,Ropa,MoverCargo,9400,No
+PED-1061,2024-07-03,Iquique,Electrónica,EnvíoYa,10900,Sí
+PED-1062,2024-07-03,Santiago,Ropa,ChileLog,21900,No
+PED-1063,2024-07-03,Santiago,Alimentos,TransRápido,25100,Sí
+PED-1064,2024-07-03,Concepción,Libros,MoverCargo,88000,Sí
+PED-1065,2024-07-03,Iquique,Electrónica,TransRápido,40700,Sí
+PED-1066,2024-07-03,La Serena,Calzado,TransRápido,32600,Sí
+PED-1067,2024-07-03,Antofagasta,Alimentos,ChileLog,18100,No
+PED-1068,2024-07-03,Antofagasta,Alimentos,TransRápido,17500,Sí
+PED-1069,2024-07-03,Concepción,Alimentos,ChileLog,50100,Sí
+PED-1070,2024-07-03,Temuco,Alimentos,TransRápido,100400,Sí
+PED-1071,2024-07-03,Antofagasta,Ropa,TransRápido,20200,Sí
+PED-1072,2024-07-03,Valparaíso,Ropa,TransRápido,35900,Sí
+PED-1073,2024-07-04,Santiago,Calzado,TransRápido,37800,Sí
+PED-1074,2024-07-04,Concepción,Ropa,TransRápido,24200,Sí
+PED-1075,2024-07-04,Antofagasta,Alimentos,EnvíoYa,92000,Sí
+PED-1076,2024-07-04,Temuco,Alimentos,MoverCargo,124200,Sí
+PED-1077,2024-07-04,Valparaíso,Calzado,ChileLog,81700,Sí
+PED-1078,2024-07-04,Santiago,Muebles,MoverCargo,96700,Sí
+PED-1079,2024-07-04,Valparaíso,Alimentos,MoverCargo,56400,No
+PED-1080,2024-07-04,Valparaíso,Electrónica,EnvíoYa,14400,Sí
+PED-1081,2024-07-04,Antofagasta,Libros,TransRápido,28300,Sí
+PED-1082,2024-07-04,Concepción,Electrónica,EnvíoYa,31700,No
+PED-1083,2024-07-04,Antofagasta,Libros,EnvíoYa,37400,Sí
+PED-1084,2024-07-04,Concepción,Muebles,ChileLog,77000,No
+PED-1085,2024-07-04,Santiago,Calzado,EnvíoYa,26900,No
+PED-1086,2024-07-04,Iquique,Ropa,ChileLog,173600,Sí
+PED-1087,2024-07-04,La Serena,Electrónica,ChileLog,35300,Sí
+PED-1088,2024-07-04,Puerto Montt,Alimentos,MoverCargo,47700,No
+PED-1089,2024-07-04,Santiago,Electrónica,ChileLog,111000,No
+PED-1090,2024-07-04,Iquique,Ropa,TransRápido,62900,Sí
+PED-1091,2024-07-04,Concepción,Alimentos,ChileLog,24200,Sí
+PED-1092,2024-07-04,Valparaíso,Ropa,TransRápido,32600,No
+PED-1093,2024-07-04,Concepción,Calzado,MoverCargo,37000,Sí
+PED-1094,2024-07-04,Concepción,Libros,ChileLog,9700,Sí
+PED-1095,2024-07-04,Concepción,Electrónica,TransRápido,34900,Sí
+PED-1096,2024-07-04,Concepción,Electrónica,ChileLog,27700,Sí
+PED-1097,2024-07-05,Santiago,Alimentos,TransRápido,32900,No
+PED-1098,2024-07-05,La Serena,Electrónica,ChileLog,45000,Sí
+PED-1099,2024-07-05,Puerto Montt,Ropa,TransRápido,100700,Sí
+PED-1100,2024-07-05,Puerto Montt,Electrónica,ChileLog,98900,Sí
+PED-1101,2024-07-05,Santiago,Libros,EnvíoYa,50800,Sí
+PED-1102,2024-07-05,Santiago,Muebles,ChileLog,22500,Sí
+PED-1103,2024-07-05,Puerto Montt,Muebles,MoverCargo,26500,Sí
+PED-1104,2024-07-05,Santiago,Calzado,TransRápido,60900,Sí
+PED-1105,2024-07-05,Concepción,Calzado,TransRápido,25300,Sí
+PED-1106,2024-07-05,Iquique,Alimentos,TransRápido,28900,Sí
+PED-1107,2024-07-05,Valparaíso,Electrónica,ChileLog,14500,Sí
+PED-1108,2024-07-05,Santiago,Ropa,EnvíoYa,70400,No
+PED-1109,2024-07-05,Valparaíso,Alimentos,TransRápido,41600,Sí
+PED-1110,2024-07-05,Valparaíso,Calzado,ChileLog,67600,Sí
+PED-1111,2024-07-05,Santiago,Electrónica,MoverCargo,59700,Sí
+PED-1112,2024-07-05,La Serena,Calzado,MoverCargo,49600,Sí
+PED-1113,2024-07-05,Valparaíso,Calzado,ChileLog,50800,Sí
+PED-1114,2024-07-05,Antofagasta,Calzado,MoverCargo,68200,Sí
+PED-1115,2024-07-05,Antofagasta,Muebles,ChileLog,14300,Sí
+PED-1116,2024-07-05,Valparaíso,Muebles,EnvíoYa,21900,Sí
+PED-1117,2024-07-05,Santiago,Alimentos,TransRápido,43800,Sí
+PED-1118,2024-07-05,Antofagasta,Electrónica,ChileLog,215100,Sí
+PED-1119,2024-07-05,Concepción,Alimentos,ChileLog,29900,Sí
+PED-1120,2024-07-05,Valparaíso,Calzado,ChileLog,42300,No
+PED-1121,2024-07-06,Puerto Montt,Electrónica,EnvíoYa,21800,Sí
+PED-1122,2024-07-06,Antofagasta,Muebles,EnvíoYa,46600,Sí
+PED-1123,2024-07-06,Concepción,Muebles,TransRápido,35900,Sí
+PED-1124,2024-07-06,Santiago,Ropa,TransRápido,34700,Sí
+PED-1125,2024-07-06,Temuco,Alimentos,ChileLog,73800,Sí
+PED-1126,2024-07-06,Santiago,Calzado,TransRápido,77400,No
+PED-1127,2024-07-06,Iquique,Libros,ChileLog,40200,Sí
+PED-1128,2024-07-06,Santiago,Alimentos,TransRápido,11500,Sí
+PED-1129,2024-07-06,Santiago,Alimentos,MoverCargo,90600,Sí
+PED-1130,2024-07-06,Valparaíso,Ropa,TransRápido,71000,Sí
+PED-1131,2024-07-06,Santiago,Electrónica,EnvíoYa,29100,No
+PED-1132,2024-07-06,Santiago,Electrónica,MoverCargo,47100,No
+PED-1133,2024-07-06,Santiago,Muebles,MoverCargo,83100,Sí
+PED-1134,2024-07-06,Concepción,Ropa,ChileLog,17100,Sí
+PED-1135,2024-07-06,Temuco,Libros,MoverCargo,21500,Sí
+PED-1136,2024-07-06,Santiago,Ropa,TransRápido,7300,Sí
+PED-1137,2024-07-06,Concepción,Ropa,TransRápido,40100,Sí
+PED-1138,2024-07-06,Iquique,Electrónica,TransRápido,18300,Sí
+PED-1139,2024-07-06,Santiago,Alimentos,MoverCargo,12600,No
+PED-1140,2024-07-06,Valparaíso,Libros,ChileLog,17100,Sí
+PED-1141,2024-07-06,Iquique,Libros,EnvíoYa,57200,No
+PED-1142,2024-07-06,Santiago,Muebles,TransRápido,97100,Sí
+PED-1143,2024-07-06,Santiago,Libros,ChileLog,36600,Sí
+PED-1144,2024-07-06,Temuco,Alimentos,ChileLog,65500,No
+PED-1145,2024-07-07,Santiago,Muebles,TransRápido,54300,Sí
+PED-1146,2024-07-07,Antofagasta,Libros,TransRápido,22700,Sí
+PED-1147,2024-07-07,Temuco,Libros,TransRápido,92300,Sí
+PED-1148,2024-07-07,La Serena,Ropa,MoverCargo,48600,Sí
+PED-1149,2024-07-07,Valparaíso,Electrónica,EnvíoYa,97900,No
+PED-1150,2024-07-07,Valparaíso,Ropa,TransRápido,34600,No
+PED-1151,2024-07-07,Santiago,Calzado,TransRápido,63000,Sí
+PED-1152,2024-07-07,Temuco,Alimentos,TransRápido,15000,Sí
+PED-1153,2024-07-07,Valparaíso,Electrónica,EnvíoYa,41200,Sí
+PED-1154,2024-07-07,La Serena,Ropa,TransRápido,33300,No
+PED-1155,2024-07-07,Concepción,Calzado,TransRápido,72000,No
+PED-1156,2024-07-07,Valparaíso,Ropa,ChileLog,97200,No
+PED-1157,2024-07-07,Antofagasta,Muebles,TransRápido,99300,Sí
+PED-1158,2024-07-07,Concepción,Muebles,ChileLog,47900,No
+PED-1159,2024-07-07,Santiago,Libros,TransRápido,51200,Sí
+PED-1160,2024-07-07,Concepción,Calzado,TransRápido,28700,Sí
+PED-1161,2024-07-07,Santiago,Electrónica,MoverCargo,37800,No
+PED-1162,2024-07-07,Santiago,Ropa,EnvíoYa,33400,No
+PED-1163,2024-07-07,Valparaíso,Libros,TransRápido,27800,Sí
+PED-1164,2024-07-07,Santiago,Electrónica,ChileLog,50500,Sí
+PED-1165,2024-07-07,Santiago,Calzado,MoverCargo,33200,Sí
+PED-1166,2024-07-07,Iquique,Alimentos,TransRápido,96300,Sí
+PED-1167,2024-07-07,Antofagasta,Alimentos,EnvíoYa,30500,No
+PED-1168,2024-07-07,Concepción,Libros,EnvíoYa,37500,Sí
+PED-1169,2024-07-08,Valparaíso,Ropa,MoverCargo,42000,Sí
+PED-1170,2024-07-08,Temuco,Electrónica,TransRápido,109600,Sí
+PED-1171,2024-07-08,Puerto Montt,Libros,ChileLog,34100,Sí
+PED-1172,2024-07-08,Valparaíso,Ropa,EnvíoYa,32600,No
+PED-1173,2024-07-08,Santiago,Ropa,ChileLog,13200,Sí
+PED-1174,2024-07-08,Antofagasta,Electrónica,ChileLog,35800,No
+PED-1175,2024-07-08,Concepción,Ropa,TransRápido,54700,Sí
+PED-1176,2024-07-08,La Serena,Electrónica,TransRápido,34300,No
+PED-1177,2024-07-08,Antofagasta,Calzado,TransRápido,43900,No
+PED-1178,2024-07-08,Iquique,Muebles,ChileLog,42200,No
+PED-1179,2024-07-08,Temuco,Electrónica,TransRápido,19100,No
+PED-1180,2024-07-08,Santiago,Electrónica,MoverCargo,33100,Sí
